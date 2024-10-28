@@ -1,0 +1,6 @@
+[project]
+name = "myproject"
+version = "0.1.0"
+description = "My project description"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"

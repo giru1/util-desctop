@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+uvicorn_server.log
+build/
+dist/
+main.spec
